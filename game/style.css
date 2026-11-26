@@ -1,0 +1,15 @@
+/* Ember Valley — Sky Courier: page chrome. The game itself is one canvas. */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #10141a;
+}
+
+#game {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  cursor: crosshair;
+}
